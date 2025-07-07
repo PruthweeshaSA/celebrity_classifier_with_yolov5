@@ -1,0 +1,15 @@
+path: ../yolo_dataset # path is relative to yolov5/train.py
+
+train: train/images
+val: val/images # you can split train/val later
+
+names:
+  0: Generic Face
+  1: Brad Pitt
+  2: Denzel Washington
+  3: Hugh Jackman
+  4: Kate Winslet
+  5: Leonardo DiCaprio
+  6: Scarlett Johansson
+  7: Tom Cruise
+  8: Tom Hanks
