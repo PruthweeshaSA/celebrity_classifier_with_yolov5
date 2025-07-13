@@ -3,4 +3,6 @@ CelebrityFacesDataset_Curated
 yolo_dataset
 yolov5
 *.mp4
-
+celeb_yolov5s**
+celeb_yolov5s7/val_batch2_pred.jpg
+inference_results
